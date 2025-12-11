@@ -1,0 +1,10 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the capital of France?"
+    }
+  ],
+  "assistant_response": "The capital of France is Paris. It is known for the Eiffel Tower and its rich history."
+}
+
