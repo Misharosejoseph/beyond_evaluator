@@ -1,0 +1,41 @@
+PS C:\Users\HP\OneDrive\Documents\beyond_evaluator> python llm_evaluation_pipeline.py
+>> 
+Evaluation Results:
+ {
+  "relevance_score": 0.3333333333333333,
+  "hallucinations": [
+    "Paris.",
+    "and",
+    "its",
+    "rich",
+    "history."
+    "history."
+  ],
+  "estimated_cost_usd": 0.00017
+}                                                   python llm_evaluation_pipeline.py --chat chat.json --context context.json
+>> C:\Users\HP\OneDrive\Documents\beyond_evaluator>
+Evaluation Results:
+    "history."
+  ],
+  "estimated_cost_usd": 0.00017
+}                                                   python llm_evaluation_pipeline.py --chat chat.json --context context.json
+>> C:\Users\HP\OneDrive\Documents\beyond_evaluator>
+Evaluation Results:
+ {
+  "relevance_score": 0.3333333333333333,
+  "hallucinations": [
+  "estimated_cost_usd": 0.00017
+}                                                   python llm_evaluation_pipeline.py --chat chat.json --context context.json
+>> C:\Users\HP\OneDrive\Documents\beyond_evaluator>
+Evaluation Results:
+Evaluation Results:
+ {
+  "relevance_score": 0.3333333333333333,
+  "hallucinations": [
+    "Paris.",
+    "and",
+    "its",
+    "rich",
+    "history."
+  ],
+  "estimated_cost_usd": 0.00017
